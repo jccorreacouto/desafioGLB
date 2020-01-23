@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/jccorreacouto/desafioGLB.svg?branch=master)](https://travis-ci.com/jccorreacouto/desafioGLB)
 [![Coverage Status](https://coveralls.io/repos/github/jccorreacouto/desafioGLB/badge.svg?branch=develop)](https://coveralls.io/github/jccorreacouto/desafioGLB?branch=develop)
 
-## 2 Desafios Técnicos
+## Dois Desafios Técnicos
 
 ### 1 - Decode URL
 
